@@ -1,0 +1,24 @@
+{
+  "name": "gratitude-diary",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.14.0"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This application was inspired by advice from my mom. When I wasn't feeling my best, she told me to write down all of the things for which I am grateful--things about my day, my friends, my family, myself, whatever. This always managed my to improve my attitude. Recognizing all of the good things about your situation can put the not-so-good things in perspective.",
+  "dependencies": {
+    "babel-preset-expo": "^4.0.0",
+    "react-native": "^0.56.0",
+    "sinon": "^6.1.4"
+  }
+}
