@@ -8,4 +8,4 @@ This is my first stab at a React Native mobile application after working with Re
 
 ## Getting Started
 
-`git clone` this repo onto your computer, `cd gratitude-diary` to go into the folder, `npm i` or `npm install`, and `npm start`. Then open up the project on Expo XDE to view the iPhone simulator.
+`git clone` this repo onto your computer, `cd gratitude-diary` to go into the folder, run `npm i` or `npm install`, and run `npm start` to download the node modules needed. Then open up the project on Expo XDE to view the iPhone simulator.
