@@ -8,36 +8,8 @@ This is my first stab at a React Native mobile application after working with Re
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Built With
-
-- [React Native](https://facebook.github.io/react-native/docs/getting-started) - The mobile framework used
-- [Firebase](https://firebase.google.com/docs/) - Authentication
-
-## Acknowledgments
-
-- Thanks to all of the Fullstack Academy fellows for helping me tackle my biggest blockers
-- And thank you to Fullstack Academy, for teaching me all that I know thus far
+`git clone` this repo onto your computer
+`cd gratitude-diary` to go into the folder
+`npm i` or `npm install`
+`npm start`
+The open up the project on Expo XDE to view the iPhone simulator.
